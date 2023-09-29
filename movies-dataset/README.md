@@ -5,3 +5,6 @@ I did some visualization according the data. There are many interesting insights
 My Kaggle Notebook [here](https://www.kaggle.com/code/iqbalpahlevi/movie-dataset?scriptVersionId=137422030)
 
 Dataset [here](https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-film-statistics-dataset-for-ml)
+
+---
+tags: data visualization
