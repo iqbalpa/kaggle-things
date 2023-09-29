@@ -11,3 +11,6 @@ The highest score I get is _**0.80102**_ using Catboost Classifier
 My Kaggle Notebook [here](https://www.kaggle.com/code/iqbalpahlevi/spaceship-titanic)
 
 Dataset [here](https://www.kaggle.com/competitions/spaceship-titanic/data)
+
+---
+tags: machine learning, tabular, classification
