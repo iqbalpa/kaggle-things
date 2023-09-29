@@ -12,4 +12,4 @@ Pre-Trained CNN produced the highest accuracy, which is around 90%.
 Dataset [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data)
 
 ---
-tags: computer vision, image classfication, CNN, ResNet
+tags: computer vision, image classfication, cnn, resnet
